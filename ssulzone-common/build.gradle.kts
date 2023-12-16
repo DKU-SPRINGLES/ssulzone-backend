@@ -6,6 +6,4 @@ val bootJar: BootJar by tasks
 jar.enabled = true
 bootJar.enabled = false
 
-dependencies {
-    implementation(project(":ssulzone-common"))
-}
+dependencies
